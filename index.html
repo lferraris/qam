@@ -1,16 +1,22 @@
-<!DOCTYPE html>
+<!DOCTYPE>
+<!-- This code is for demonstration purposes only.  You should not hotlink to Github, Rawgit, or files from the Cytoscape.js documentation in your production apps. -->
 <html>
 
 <head>
-	<title>Parcel Sandbox</title>
-	<meta charset="UTF-8" />
+  <title>Luca DEMO</title>
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+  <link href="style.css" rel="stylesheet" />
 </head>
 
 <body>
-	<div id="app"></div>
+  <h1>Luca DEMO</h1>  
+  <input type="file" id="csv-file" name="files" onchange="parseCsv(event)" />
+  <div id="cy"></div>
 
-	<script src="src/index.js">
-	</script>
+  <!-- Load application code at the end to ensure DOM is loaded -->
+  <script src="./papaparse.min.js"></script>
+  <script src="./cytoscape.min.js"></script>
+  <script src="./main.js"></script>
 </body>
 
 </html>

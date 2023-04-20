@@ -1,0 +1,117 @@
+[{
+  "data": {
+    "id": "HIRA",
+    "altered": 0,
+    "rank": 148,
+    "cited": 53,
+    "uniprotdesc": "Cooperates with ASF1A to promote replication-independentchromatin assembly. Required for the periodic repression ofhistone gene transcription during the cell cycle. Required for theformation of senescence-associated heterochromatin foci (SAHF) andefficient senescence-associated cell cycle exit.",
+    "isseed": false,
+    "uniprot": "P54198",
+    "isvalid": true,
+    "importance": 3
+  },
+  "position": {
+    "x": 539.5,
+    "y": 641.7372431003224
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+}, {
+  "data": {
+    "id": "SERPINE1",
+    "altered": 0,
+    "rank": 5,
+    "cited": 7063,
+    "uniprotdesc": "Serine protease inhibitor. This inhibitor acts as 'bait'for tissue plasminogen activator, urokinase, protein C andmatriptase-3/TMPRSS7. Its rapid interaction with PLAT may functionas a major control point in the regulation of fibrinolysis.",
+    "isseed": false,
+    "uniprot": "P05121",
+    "isvalid": true,
+    "importance": 3
+  },
+  "position": {
+    "x": 670.4301869950953,
+    "y": 229.70989985711336
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+}, {
+  "data": {
+    "id": "FAS",
+    "altered": 0,
+    "rank": 38,
+    "cited": 1011,
+    "uniprotdesc": "Receptor for TNFSF6/FASLG. The adapter molecule FADDrecruits caspase-8 to the activated receptor. The resulting death-inducing signaling complex (DISC) performs caspase-8 proteolyticactivation which initiates the subsequent cascade of caspases(aspartate-specific cysteine proteases) mediating apoptosis. FAS-mediated apoptosis may have a role in the induction of peripheraltolerance, in the antigen-stimulated suicide of mature T-cells, orboth. The secreted isoforms 2 to 6 block apoptosis (in vitro).",
+    "isseed": false,
+    "uniprot": "P25445",
+    "isvalid": true,
+    "importance": 3
+  },
+  "position": {
+    "x": 771.3915110914829,
+    "y": 613.8066148172879
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+}, {
+  "data": {
+    "id": "H1F0",
+    "altered": 0,
+    "rank": 179,
+    "cited": 8,
+    "uniprotdesc": "Histones H1 are necessary for the condensation ofnucleosome chains into higher-order structures. The H1F0 histonesare found in cells that are in terminal stages of differentiationor that have low rates of cell division.",
+    "isseed": false,
+    "uniprot": "P07305",
+    "isvalid": true,
+    "importance": 3
+  },
+  "position": {
+    "x": 396.564243092928,
+    "y": 545.1295331255458
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+}, {
+  "data": {
+    "id": "CHEK2",
+    "altered": 0,
+    "rank": 42,
+    "cited": 859,
+    "uniprotdesc": "Serine/threonine-protein kinase which is required forcheckpoint-mediated cell cycle arrest, activation of DNA repairand apoptosis in response to the presence of DNA double-strandbreaks. May also negatively regulate cell cycle progression duringunperturbed cell cycles. Following activation, phosphorylatesnumerous effectors preferentially at the consensus sequence [L-X-R-X-X-S/T]. Regulates cell cycle checkpoint arrest throughphosphorylation of CDC25A, CDC25B and CDC25C, inhibiting theiractivity. Inhibition of CDC25 phosphatase activity leads toincreased inhibitory tyrosine phosphorylation of CDK-cyclincomplexes and blocks cell cycle progression. May alsophosphorylate NEK6 which is involved in G2/M cell cycle arrest.Regulates DNA repair through phosphorylation of BRCA2, enhancingthe association of RAD51 with chromatin which promotes DNA repairby homologous recombination. Also stimulates the transcription ofgenes involved in DNA repair (including BRCA2) through thephosphorylation and activation of the transcription factor FOXM1.Regulates apoptosis through the phosphorylation of p53/TP53, MDM4and PML. Phosphorylation of p53/TP53 at 'Ser-20' by CHEK2 mayalleviate inhibition by MDM2, leading to accumulation of activep53/TP53. Phosphorylation of MDM4 may also reduce degradation ofp53/TP53. Also controls the transcription of pro-apoptotic genesthrough phosphorylation of the transcription factor E2F1. Tumorsuppressor, it may also have a DNA damage-independent function inmitotic spindle assembly by phosphorylating BRCA1. Its absence maybe a cause of the chromosomal instability observed in some cancercells. ",
+    "isseed": false,
+    "uniprot": "O96017",
+    "isvalid": true,
+    "importance": 3
+  },
+  "position": {
+    "x": 665.61605725324,
+    "y": 327.88536532731405
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+}
+]
